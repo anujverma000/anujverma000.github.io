@@ -3,7 +3,9 @@
  Hey there!
  If you’re curious to learn more about me, I’ve got something cool for you. Just run the following command in your terminal, and let’s connect in a unique way!
 
-`npx anujverma`
+```bash
+ npx anujverma
+````
 
 
 ## Open Source
