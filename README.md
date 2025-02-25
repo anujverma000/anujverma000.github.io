@@ -8,8 +8,9 @@
 
 ## npm resume
  
- Hey there!
+ <samp>Hey there!
  If you’re curious to learn more about me, I’ve got something cool for you. Just run the following command in your terminal, and let’s connect in a unique way!
+</samp>
 
 ```bash
  npx anujverma
@@ -18,14 +19,16 @@
 
 ## Open Source
 
-[My open source pull requests](https://github.com/pulls?q=is%3Apr+author%3Aanujverma000+is%3Apublic)
+<samp>[My open source pull requests](https://github.com/pulls?q=is%3Apr+author%3Aanujverma000+is%3Apublic)</samp>
 
 
 ## Latest Posts
 
-[Model Context Protocol](https://anujverma000.github.io/posts/MCP)
+<samp>[Model Context Protocol](https://anujverma000.github.io/posts/MCP)</samp>
 
+<samp>
 Model Context Protocol (MCP) is a lightweight way to standardize how models pass contextual data in apps. Think of it as a contract for structuring state or metadata that components can rely on. It helps in managing and propagating contextual data across your application.
+</samp>samp>
 
 
 
