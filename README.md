@@ -1,3 +1,11 @@
+<p align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/anujverma000">linkedin</a> .
+    <a href="https://anujverma000.substack.com/">substack</a> .
+    <a href="https://anujverma000.github.io/posts/">posts</a>
+  </samp>
+</p>
+
 ## npm resume
  
  Hey there!
