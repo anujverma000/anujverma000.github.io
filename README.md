@@ -21,7 +21,7 @@
 [My open source pull requests](https://github.com/pulls?q=is%3Apr+author%3Aanujverma000+is%3Apublic)
 
 
-## Posts
+## Latest Posts
 
 [Model Context Protocol](https://anujverma000.github.io/posts/MCP)
 
