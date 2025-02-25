@@ -13,6 +13,14 @@
 [My open source pull requests](https://github.com/pulls?q=is%3Apr+author%3Aanujverma000+is%3Apublic)
 
 
+## Posts
+
+[Model Context Protocol](https://anujverma000.github.io/posts/MCP)
+
+Model Context Protocol (MCP) is a lightweight way to standardize how models pass contextual data in apps. Think of it as a contract for structuring state or metadata that components can rely on. It helps in managing and propagating contextual data across your application.
+
+
+
 ## Connect with me
 ![Gmail](https://img.shields.io/badge/email-anujverma000@gmail.com-blue)
 ![Github](https://img.shields.io/badge/github-anujverma000-black)
