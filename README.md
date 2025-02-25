@@ -1,5 +1,3 @@
-# anujverma000
-
 ## npm resume
  
  Hey there!
