@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <samp>
     <a href="https://www.linkedin.com/in/anujverma000">linkedin</a> .
     <a href="https://anujverma000.substack.com/">substack</a> .
