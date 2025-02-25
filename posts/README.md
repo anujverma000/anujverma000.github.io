@@ -6,6 +6,8 @@
   </samp>
 </p>
 
+## Posts
+
 [Model Context Protocol](https://anujverma000.github.io/posts/MCP)
 
 <samp>
